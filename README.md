@@ -1,6 +1,5 @@
-Sure! Here's the entire `README.md` content that you can directly copy and paste into your `README.md` file:
 
-```markdown
+
 # Blog API with FastAPI and MongoDB
 
 This is a simple blog API built using **FastAPI** and **MongoDB** for storing and managing blog posts. It provides basic CRUD (Create, Read, Update, Delete) operations and allows for data validation using **Pydantic** models.
