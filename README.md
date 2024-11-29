@@ -1,3 +1,5 @@
+# Database connect with MongoDB Atlas
+Add in your database connection url in app/routes/database.py
 
 
 # Blog API with FastAPI and MongoDB
